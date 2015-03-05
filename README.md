@@ -1,4 +1,4 @@
-Smart-inc
-=====
+Buildaway
+=========
 
-BaseKit's Smart inc Template
+Enom Standard Template: Buildaway
